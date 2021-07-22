@@ -1,0 +1,6 @@
+com\bizzan\bitrade\controller\CommunityController.class
+com\bizzan\bitrade\component\OssTemplate.class
+com\bizzan\bitrade\config\OssConfig.class
+com\bizzan\bitrade\controller\ItemController.class
+com\bizzan\bitrade\CollegeApplication.class
+com\bizzan\bitrade\filter\RequestConfig.class

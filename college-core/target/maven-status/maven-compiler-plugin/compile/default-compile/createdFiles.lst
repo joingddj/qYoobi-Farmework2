@@ -1,0 +1,4 @@
+com\bizzan\bitrade\entity\Community.class
+com\bizzan\bitrade\service\CommunityService.class
+com\bizzan\bitrade\dao\CommunityRepository.class
+com\bizzan\bitrade\service\impl\CommunityServiceImpl.class
